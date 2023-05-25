@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:rgba(55, 148, 253, 0.623);
 }
 
 code {
@@ -30,7 +31,7 @@ header img{
   width: 120px;
 }
 footer{
-  background-color: #030122;
+  background-color:rgba(0, 0, 255, 0.692);
   background-size: cover;
   text-align: center;
   font-size: large;
